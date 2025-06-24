@@ -1,101 +1,101 @@
-order_id	customer_name	product	quantity	unit_price	order_date	region
-1	Diana	Tablet		500	20/01/2024	South
-2	Eve	Laptop			29/04/2024	North
-3	Charlie	Laptop	2	250	08/01/2024	
-4	Eve	Laptop	2	750	07/01/2024	West
-5	Eve	Tablet	3		07/03/2024	South
-4	Eve	Laptop	2	750	07/01/2024	West
-7	Charlie	Monitor	2	750	02/02/2024	West
-8	Charlie	Laptop	3		17/02/2024	
-9	Charlie	Monitor		750	16/03/2024	West
-10	Eve	Monitor	1	500	28/02/2024	North
-11		Monitor	3	750	24/04/2024	West
-12	Charlie	Tablet	2	750	26/03/2024	East
-13	Frank	Tablet	1	750	28/04/2024	West
-14	Eve	Tablet	1		22/01/2024	South
-15	Bob	Laptop	1		19/04/2024	South
-16	Diana	Monitor	3	750		East
-17	Frank	Tablet	2		07/02/2024	North
-18	Frank	Tablet	1	250	11/04/2024	South
-19	Bob	Laptop		250	18/04/2024	
-20	Diana	Tablet	1		20/02/2024	South
-21	Eve	Laptop	1		23/02/2024	South
-22	Alice	Phone	3	750	08/01/2024	North
-23	Diana	Tablet	3	500	27/01/2024	West
-24	Bob	Phone	2		27/01/2024	South
-25	Frank	Laptop		250	07/04/2024	East
-26	Eve	Monitor	3	750	21/01/2024	West
-27	Diana	Tablet	1		30/01/2024	
-28	Alice	Laptop	2	250	06/04/2024	North
-29	Alice	Monitor	1	250	28/01/2024	
-30	Charlie	Monitor	1	500	20/04/2024	West
-31	Charlie	Phone	3	750	04/03/2024	West
-32	Bob	Laptop	2	750	06/04/2024	West
-33	Diana	Monitor		500	09/03/2024	
-34	Diana	Tablet		500	01/03/2024	West
-35	Frank	Tablet	3	750	17/02/2024	
-36	Frank	Phone	3	750	19/01/2024	West
-37	Frank	Monitor	2		04/01/2024	East
-38	Charlie	Laptop			04/02/2024	West
-39	Diana	Tablet		500	04/03/2024	
-40	Diana	Monitor			18/02/2024	South
-41	Alice	Monitor	1	250	17/01/2024	West
-42	Charlie	Phone			13/02/2024	South
-43	Eve	Tablet	1		01/04/2024	East
-44	Charlie	Tablet	2	250	30/01/2024	North
-45	Eve	Laptop	1	500	02/04/2024	East
-46	Alice	Tablet	2	250	15/02/2024	West
-47	Bob	Laptop			26/04/2024	South
-48	Diana	Tablet		500	06/01/2024	South
-49	Alice	Phone	2		08/04/2024	
-50	Diana	Tablet	3	250	14/04/2024	South
-51	Frank	Laptop	2	250	06/02/2024	
-52	Bob	Laptop	3		24/01/2024	North
-53	Bob	Phone	1	750	02/04/2024	West
-54	Alice	Tablet	1	750	22/04/2024	
-55	Bob	Tablet	1	250	15/02/2024	North
-56	Eve	Phone		250	22/02/2024	South
-57	Bob	Tablet	1	750	04/04/2024	South
-58	Diana	Tablet	3	750	08/04/2024	North
-59	Diana	Laptop	1		29/02/2024	South
-60	Diana	Tablet	2		06/04/2024	North
-61	Diana	Tablet	2	750	25/04/2024	
-62	Eve	Phone			03/03/2024	
-63	Charlie	Phone	2		25/03/2024	North
-64	Frank	Monitor	3	500	01/02/2024	
-65	Alice	Laptop	1		27/03/2024	
-66	Diana	Tablet		250	02/02/2024	
-67	Bob	Tablet	1		07/03/2024	East
-68	Diana	Monitor	1		18/01/2024	West
-69	Bob	Tablet	3	750	25/01/2024	South
-70	Frank	Laptop	2	250	15/04/2024	East
-71	Frank	Monitor	2		04/04/2024	
-72	Frank	Laptop	1		23/02/2024	North
-73	Bob	Monitor		500	27/02/2024	
-74	Diana	Monitor	2		07/03/2024	West
-75	Frank	Phone			13/04/2024	
-76	Eve	Laptop	2	500	15/02/2024	North
-77	Bob	Tablet		750	24/01/2024	West
-78	Bob	Tablet	3		23/04/2024	
-79	Diana	Laptop		500	01/02/2024	West
-80	Bob	Tablet	3	250	16/02/2024	South
-81	Bob	Tablet	3	750	26/03/2024	South
-82	Frank	Laptop		250	23/01/2024	
-83	Diana	Monitor	3	250	06/03/2024	West
-84	Frank	Laptop	1	500	27/01/2024	North
-85	Frank	Monitor	3		15/04/2024	
-86	Diana	Tablet	2	500	02/01/2024	South
-87	Alice	Tablet		500	30/03/2024	South
-88	Frank	Tablet	1	500	17/01/2024	
-89	Eve	Phone		500	13/04/2024	West
-90	Eve	Monitor	2	750	02/02/2024	South
-91	Bob	Phone	2		09/01/2024	West
-92	Eve	Phone	2	250	12/02/2024	South
-93	Bob	Laptop	3	250	27/04/2024	South
-94	Alice	Phone	3		17/02/2024	East
-95	Diana	Laptop		250	08/02/2024	South
-96	Diana	Laptop			02/04/2024	North
-97	Diana	Phone	1	250	11/02/2024	
-98	Eve	Monitor	1	500	28/04/2024	
-99	Alice	Monitor		250	26/01/2024	West
-100	Eve	Monitor	3		08/04/2024	South
+order_id,customer_name,product,quantity,unit_price,order_date,region
+1,Diana,Tablet,,500.0,20/01/2024,South
+2,Eve,Laptop,,,29/04/2024,North
+3,Charlie,Laptop,2.0,250.0,08/01/2024,
+4,Eve,Laptop,2.0,750.0,07/01/2024,West
+5,Eve,Tablet,3.0,,07/03/2024,South
+4,Eve,Laptop,2.0,750.0,07/01/2024,West
+7,Charlie,Monitor,2.0,750.0,02/02/2024,West
+8,Charlie,Laptop,3.0,,17/02/2024,
+9,Charlie,Monitor,,750.0,16/03/2024,West
+10,Eve,Monitor,1.0,500.0,28/02/2024,North
+11,,Monitor,3.0,750.0,24/04/2024,West
+12,Charlie,Tablet,2.0,750.0,26/03/2024,East
+13,Frank,Tablet,1.0,750.0,28/04/2024,West
+14,Eve,Tablet,1.0,,22/01/2024,South
+15,Bob,Laptop,1.0,,19/04/2024,South
+16,Diana,Monitor,3.0,750.0,,East
+17,Frank,Tablet,2.0,,07/02/2024,North
+18,Frank,Tablet,1.0,250.0,11/04/2024,South
+19,Bob,Laptop,,250.0,18/04/2024,
+20,Diana,Tablet,1.0,,20/02/2024,South
+21,Eve,Laptop,1.0,,23/02/2024,South
+22,Alice,Phone,3.0,750.0,08/01/2024,North
+23,Diana,Tablet,3.0,500.0,27/01/2024,West
+24,Bob,Phone,2.0,,27/01/2024,South
+25,Frank,Laptop,,250.0,07/04/2024,East
+26,Eve,Monitor,3.0,750.0,21/01/2024,West
+27,Diana,Tablet,1.0,,30/01/2024,
+28,Alice,Laptop,2.0,250.0,06/04/2024,North
+29,Alice,Monitor,1.0,250.0,28/01/2024,
+30,Charlie,Monitor,1.0,500.0,20/04/2024,West
+31,Charlie,Phone,3.0,750.0,04/03/2024,West
+32,Bob,Laptop,2.0,750.0,06/04/2024,West
+33,Diana,Monitor,,500.0,09/03/2024,
+34,Diana,Tablet,,500.0,01/03/2024,West
+35,Frank,Tablet,3.0,750.0,17/02/2024,
+36,Frank,Phone,3.0,750.0,19/01/2024,West
+37,Frank,Monitor,2.0,,04/01/2024,East
+38,Charlie,Laptop,,,04/02/2024,West
+39,Diana,Tablet,,500.0,04/03/2024,
+40,Diana,Monitor,,,18/02/2024,South
+41,Alice,Monitor,1.0,250.0,17/01/2024,West
+42,Charlie,Phone,,,13/02/2024,South
+43,Eve,Tablet,1.0,,01/04/2024,East
+44,Charlie,Tablet,2.0,250.0,30/01/2024,North
+45,Eve,Laptop,1.0,500.0,02/04/2024,East
+46,Alice,Tablet,2.0,250.0,15/02/2024,West
+47,Bob,Laptop,,,26/04/2024,South
+48,Diana,Tablet,,500.0,06/01/2024,South
+49,Alice,Phone,2.0,,08/04/2024,
+50,Diana,Tablet,3.0,250.0,14/04/2024,South
+51,Frank,Laptop,2.0,250.0,06/02/2024,
+52,Bob,Laptop,3.0,,24/01/2024,North
+53,Bob,Phone,1.0,750.0,02/04/2024,West
+54,Alice,Tablet,1.0,750.0,22/04/2024,
+55,Bob,Tablet,1.0,250.0,15/02/2024,North
+56,Eve,Phone,,250.0,22/02/2024,South
+57,Bob,Tablet,1.0,750.0,04/04/2024,South
+58,Diana,Tablet,3.0,750.0,08/04/2024,North
+59,Diana,Laptop,1.0,,29/02/2024,South
+60,Diana,Tablet,2.0,,06/04/2024,North
+61,Diana,Tablet,2.0,750.0,25/04/2024,
+62,Eve,Phone,,,03/03/2024,
+63,Charlie,Phone,2.0,,25/03/2024,North
+64,Frank,Monitor,3.0,500.0,01/02/2024,
+65,Alice,Laptop,1.0,,27/03/2024,
+66,Diana,Tablet,,250.0,02/02/2024,
+67,Bob,Tablet,1.0,,07/03/2024,East
+68,Diana,Monitor,1.0,,18/01/2024,West
+69,Bob,Tablet,3.0,750.0,25/01/2024,South
+70,Frank,Laptop,2.0,250.0,15/04/2024,East
+71,Frank,Monitor,2.0,,04/04/2024,
+72,Frank,Laptop,1.0,,23/02/2024,North
+73,Bob,Monitor,,500.0,27/02/2024,
+74,Diana,Monitor,2.0,,07/03/2024,West
+75,Frank,Phone,,,13/04/2024,
+76,Eve,Laptop,2.0,500.0,15/02/2024,North
+77,Bob,Tablet,,750.0,24/01/2024,West
+78,Bob,Tablet,3.0,,23/04/2024,
+79,Diana,Laptop,,500.0,01/02/2024,West
+80,Bob,Tablet,3.0,250.0,16/02/2024,South
+81,Bob,Tablet,3.0,750.0,26/03/2024,South
+82,Frank,Laptop,,250.0,23/01/2024,
+83,Diana,Monitor,3.0,250.0,06/03/2024,West
+84,Frank,Laptop,1.0,500.0,27/01/2024,North
+85,Frank,Monitor,3.0,,15/04/2024,
+86,Diana,Tablet,2.0,500.0,02/01/2024,South
+87,Alice,Tablet,,500.0,30/03/2024,South
+88,Frank,Tablet,1.0,500.0,17/01/2024,
+89,Eve,Phone,,500.0,13/04/2024,West
+90,Eve,Monitor,2.0,750.0,02/02/2024,South
+91,Bob,Phone,2.0,,09/01/2024,West
+92,Eve,Phone,2.0,250.0,12/02/2024,South
+93,Bob,Laptop,3.0,250.0,27/04/2024,South
+94,Alice,Phone,3.0,,17/02/2024,East
+95,Diana,Laptop,,250.0,08/02/2024,South
+96,Diana,Laptop,,,02/04/2024,North
+97,Diana,Phone,1.0,250.0,11/02/2024,
+98,Eve,Monitor,1.0,500.0,28/04/2024,
+99,Alice,Monitor,,250.0,26/01/2024,West
+100,Eve,Monitor,3.0,,08/04/2024,South
